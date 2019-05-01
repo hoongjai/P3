@@ -169,4 +169,3 @@ The code for making predictions on my final model is located in the 15th cell of
 The top five soft max probabilities were
 [top_five_soft_max]
 
-
