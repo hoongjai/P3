@@ -21,15 +21,15 @@ The goals / steps of this project are the following:
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./test_images/12Priority_resized.jpg "Traffic Sign 1"
-[image5]: ./test_images/14Stop sign_resized.jpg "Traffic Sign 2"
+[image5]: ./test_images/14Stop_sign_resized.jpg "Traffic Sign 2"
 [image6]: ./test_images/25working_resized.jpg "Traffic Sign 3"
 [image7]: ./test_images/31animal_resized.jpg "Traffic Sign 4"
-[image8]: ./test_images/34turn left_resized.jpg "Traffic Sign 5"
-[top_five_soft_max1]: ./output_images/top_five_softmax1.jpg
-[top_five_soft_max2]: ./output_images/top_five_softmax2.jpg
-[top_five_soft_max3]: ./output_images/top_five_softmax3.jpg
-[top_five_soft_max4]: ./output_images/top_five_softmax4.jpg
-[top_five_soft_max5]: ./output_images/top_five_softmax5.jpg
+[image8]: ./test_images/34turn_left_resized.jpg "Traffic Sign 5"
+[top_five_soft_max1]: ./output_images/top_five_softmax1.jpg ""
+[top_five_soft_max2]: ./output_images/top_five_softmax2.jpg ""
+[top_five_soft_max3]: ./output_images/top_five_softmax3.jpg ""
+[top_five_soft_max4]: ./output_images/top_five_softmax4.jpg ""
+[top_five_soft_max5]: ./output_images/top_five_softmax5.jpg ""
 
 ### Data Set Summary & Exploration
 
