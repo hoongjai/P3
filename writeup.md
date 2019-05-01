@@ -25,11 +25,11 @@ The goals / steps of this project are the following:
 [image6]: ./test_images/25working_resized.jpg "Traffic Sign 3"
 [image7]: ./test_images/31animal_resized.jpg "Traffic Sign 4"
 [image8]: ./test_images/34turn_left_resized.jpg "Traffic Sign 5"
-[top_five_soft_max1]: ./output_images/top_five_softmax1.jpg ""
-[top_five_soft_max2]: ./output_images/top_five_softmax2.jpg ""
-[top_five_soft_max3]: ./output_images/top_five_softmax3.jpg ""
-[top_five_soft_max4]: ./output_images/top_five_softmax4.jpg ""
-[top_five_soft_max5]: ./output_images/top_five_softmax5.jpg ""
+[top_five_soft_max1]: ./output_images/top_five_softmax1.jpg "1"
+[top_five_soft_max2]: ./output_images/top_five_softmax2.jpg "2"
+[top_five_soft_max3]: ./output_images/top_five_softmax3.jpg "3"
+[top_five_soft_max4]: ./output_images/top_five_softmax4.jpg "4"
+[top_five_soft_max5]: ./output_images/top_five_softmax5.jpg "5"
 
 ### Data Set Summary & Exploration
 
@@ -130,9 +130,9 @@ The model was able to correctly guess 5 of the 5 traffic signs, which gives an a
 The code for making predictions on my final model is located in the 15th cell of the Ipython notebook.
 
 The top five soft max probabilities were
-[top_five_soft_max1]
-[top_five_soft_max2]
-[top_five_soft_max3]
-[top_five_soft_max4]
-[top_five_soft_max5]
+![top_five_soft_max1]
+![top_five_soft_max2]
+![top_five_soft_max3]
+![top_five_soft_max4]
+![top_five_soft_max5]
 
